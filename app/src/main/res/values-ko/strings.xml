@@ -27,7 +27,6 @@
     <string name="menu_download">다운로드</string>
     <string name="menu_in_new_tab">새 탭에서 열기</string>
     <string name="menu_desktop_mode">PC 버전으로 보기</string>
-    <string name="menu_mobile_mode">모바일 버전으로 보기</string>
     <string name="menu_search">현재 페이지에서 찾기</string>
     <string name="menu_print">인쇄</string>
     <string name="share_title">보내기</string>

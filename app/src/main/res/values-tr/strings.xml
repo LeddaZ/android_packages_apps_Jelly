@@ -27,7 +27,6 @@
     <string name="menu_download">İndir</string>
     <string name="menu_in_new_tab">Yeni sekmede aç</string>
     <string name="menu_desktop_mode">Masaüstü sürümüne geç</string>
-    <string name="menu_mobile_mode">Mobil sürümüne geç</string>
     <string name="menu_search">Sayfada bul</string>
     <string name="menu_print">Yazdır</string>
     <string name="share_title">Şuraya gönder</string>

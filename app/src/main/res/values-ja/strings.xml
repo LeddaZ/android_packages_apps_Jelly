@@ -27,7 +27,6 @@
     <string name="menu_download">ダウンロード</string>
     <string name="menu_in_new_tab">新しいタブで開く</string>
     <string name="menu_desktop_mode">PC版サイトを表示</string>
-    <string name="menu_mobile_mode">モバイル版サイトを表示</string>
     <string name="menu_search">ページ内検索</string>
     <string name="menu_print">印刷</string>
     <string name="share_title">送信</string>

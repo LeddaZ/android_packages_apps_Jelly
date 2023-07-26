@@ -27,7 +27,6 @@
     <string name="menu_download">Letöltés</string>
     <string name="menu_in_new_tab">Megnyitás új lapon</string>
     <string name="menu_desktop_mode">Váltás asztali nézetre</string>
-    <string name="menu_mobile_mode">Váltás a mobil nézetre</string>
     <string name="menu_search">Keresés az oldalon</string>
     <string name="menu_print">Nyomtatás</string>
     <string name="share_title">Küldés</string>

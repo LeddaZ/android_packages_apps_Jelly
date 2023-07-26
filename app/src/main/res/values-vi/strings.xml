@@ -27,7 +27,6 @@
     <string name="menu_download">Tải về</string>
     <string name="menu_in_new_tab">Mở trong tab mới</string>
     <string name="menu_desktop_mode">Chuyển sang trang cho máy tính</string>
-    <string name="menu_mobile_mode">Chuyển sang trang cho điện thoại</string>
     <string name="menu_search">Tìm trong trang</string>
     <string name="menu_print">In</string>
     <string name="share_title">Gửi đến</string>

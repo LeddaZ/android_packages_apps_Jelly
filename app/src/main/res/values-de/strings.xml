@@ -27,7 +27,6 @@
     <string name="menu_download">Herunterladen</string>
     <string name="menu_in_new_tab">In neuem Tab öffnen</string>
     <string name="menu_desktop_mode">Auf Desktop-Ansicht umschalten</string>
-    <string name="menu_mobile_mode">Auf mobile Website umschalten</string>
     <string name="menu_search">Seite durchsuchen</string>
     <string name="menu_print">Drucken</string>
     <string name="share_title">Senden an</string>

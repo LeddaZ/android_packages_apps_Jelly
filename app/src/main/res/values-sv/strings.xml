@@ -27,7 +27,6 @@
     <string name="menu_download">Ladda ner</string>
     <string name="menu_in_new_tab">Öppna i en ny flik</string>
     <string name="menu_desktop_mode">Datoranpassad webbplats</string>
-    <string name="menu_mobile_mode">Mobilanpassad webbplats</string>
     <string name="menu_search">Hitta på sidan</string>
     <string name="menu_print">Skriv ut</string>
     <string name="share_title">Skicka till</string>

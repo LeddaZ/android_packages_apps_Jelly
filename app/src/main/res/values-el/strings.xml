@@ -27,7 +27,6 @@
     <string name="menu_download">Λήψη</string>
     <string name="menu_in_new_tab">Άνοιγμα σε νέα καρτέλα</string>
     <string name="menu_desktop_mode">Εναλλαγή σε έκδοση για υπολογιστές</string>
-    <string name="menu_mobile_mode">Εναλλαγή σε έκδοση για κινητά</string>
     <string name="menu_search">Εύρεση στη σελίδα</string>
     <string name="menu_print">Εκτύπωση</string>
     <string name="share_title">Αποστολή σε</string>

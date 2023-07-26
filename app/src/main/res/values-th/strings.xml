@@ -27,7 +27,6 @@
     <string name="menu_download">ดาวน์โหลด</string>
     <string name="menu_in_new_tab">เปิดในแท็บใหม่</string>
     <string name="menu_desktop_mode">สลับไปยังไซต์เวอร์ชัน​เดสก์ท็อป</string>
-    <string name="menu_mobile_mode">สลับไปยังไซต์เวอร์ชันมือถือ</string>
     <string name="menu_search">ค้นหาในหน้านี้</string>
     <string name="menu_print">พิมพ์</string>
     <string name="share_title">ส่งถึง</string>

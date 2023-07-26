@@ -27,7 +27,6 @@
     <string name="menu_download">Download</string>
     <string name="menu_in_new_tab">Open in new tab</string>
     <string name="menu_desktop_mode">Switch to desktop site</string>
-    <string name="menu_mobile_mode">Switch to mobile site</string>
     <string name="menu_search">Find in page</string>
     <string name="menu_print">Print</string>
     <string name="share_title">Send to</string>

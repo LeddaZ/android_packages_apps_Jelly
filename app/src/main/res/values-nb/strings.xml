@@ -27,7 +27,6 @@
     <string name="menu_download">Last ned</string>
     <string name="menu_in_new_tab">Åpne i ny fane</string>
     <string name="menu_desktop_mode">Bytt til skrivebordside</string>
-    <string name="menu_mobile_mode">Bytt til mobilside</string>
     <string name="menu_search">Finn på side</string>
     <string name="share_title">Send til</string>
     <string name="dismiss">Avvis</string>

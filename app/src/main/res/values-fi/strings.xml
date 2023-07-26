@@ -27,7 +27,6 @@
     <string name="menu_download">Lataa</string>
     <string name="menu_in_new_tab">Avaa uudessa välilehdessä</string>
     <string name="menu_desktop_mode">Vaihda työpöytäsivustoon</string>
-    <string name="menu_mobile_mode">Vaihda mobiilisivustoon</string>
     <string name="menu_search">Etsi sivulta</string>
     <string name="menu_print">Tulosta</string>
     <string name="share_title">Lähetä</string>

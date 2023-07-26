@@ -27,7 +27,6 @@
     <string name="menu_download">ჩამოტვირთვა</string>
     <string name="menu_in_new_tab">ახალ ჩანართში გახსნა</string>
     <string name="menu_desktop_mode">სრულ ვერსიაზე გადასვლა</string>
-    <string name="menu_mobile_mode">მობილურ ვერსიაზე გადასვლა</string>
     <string name="menu_search">პოვნა გვერდზე</string>
     <string name="menu_print">ამობეჭდვა</string>
     <string name="share_title">გაგზავნა</string>

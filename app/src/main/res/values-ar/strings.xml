@@ -27,7 +27,6 @@
     <string name="menu_download">تنزيل</string>
     <string name="menu_in_new_tab">فتح في علامة تبويب جديدة</string>
     <string name="menu_desktop_mode">التبديل إلى موقع سطح المكتب</string>
-    <string name="menu_mobile_mode">التبديل إلى موقع الجوال</string>
     <string name="menu_search">البحث في الصفحة</string>
     <string name="menu_print">طباعة</string>
     <string name="share_title">إرسال إلى</string>

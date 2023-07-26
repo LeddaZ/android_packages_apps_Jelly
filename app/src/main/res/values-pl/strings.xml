@@ -27,7 +27,6 @@
     <string name="menu_download">Pobierz</string>
     <string name="menu_in_new_tab">Otwórz w nowej karcie</string>
     <string name="menu_desktop_mode">Przełącz na wersję komputerową strony</string>
-    <string name="menu_mobile_mode">Przełącz na wersję mobilną strony</string>
     <string name="menu_search">Znajdź na stronie</string>
     <string name="menu_print">Drukuj</string>
     <string name="share_title">Wyślij do</string>

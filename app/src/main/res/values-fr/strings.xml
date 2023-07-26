@@ -27,7 +27,6 @@
     <string name="menu_download">Télécharger</string>
     <string name="menu_in_new_tab">Ouvrir dans un nouvel onglet</string>
     <string name="menu_desktop_mode">Passer en version bureau</string>
-    <string name="menu_mobile_mode">Passer en version mobile</string>
     <string name="menu_search">Rechercher dans la page</string>
     <string name="menu_print">Imprimer</string>
     <string name="share_title">Envoyer à</string>

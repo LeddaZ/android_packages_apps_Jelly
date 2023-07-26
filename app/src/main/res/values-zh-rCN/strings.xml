@@ -27,7 +27,6 @@
     <string name="menu_download">下载</string>
     <string name="menu_in_new_tab">在新标签页中打开</string>
     <string name="menu_desktop_mode">切换到桌面版页面</string>
-    <string name="menu_mobile_mode">切换到手机版页面</string>
     <string name="menu_search">在页面内查找</string>
     <string name="menu_print">打印</string>
     <string name="share_title">发送到</string>
