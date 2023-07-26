@@ -39,6 +39,9 @@ android {
                 )
             )
         }
+        getByName("debug") {
+            applicationIdSuffix = ".dev"
+        }
     }
 
     compileOptions {
