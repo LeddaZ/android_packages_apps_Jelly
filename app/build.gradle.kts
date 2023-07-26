@@ -49,11 +49,12 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
+    namespace = "org.lineageos.jelly"
 }
 
 dependencies {
     // Align versions of all Kotlin components
-    implementation(platform("org.jetbrains.kotlin:kotlin-bom:1.8.0"))
+    implementation(platform("org.jetbrains.kotlin:kotlin-bom:1.9.0"))
 
     implementation("androidx.core:core-ktx:1.10.1")
     implementation("androidx.annotation:annotation:1.6.0")
@@ -64,8 +65,8 @@ dependencies {
     implementation("androidx.recyclerview:recyclerview:1.3.0")
     implementation("androidx.transition:transition:1.4.1")
     implementation("com.google.android.material:material:1.9.0")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.1")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
 }
 
 tasks.register("generateBp") {
